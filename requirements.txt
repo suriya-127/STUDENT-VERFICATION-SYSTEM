@@ -1,0 +1,13 @@
+ollama
+streamlit
+streamlit-webrtc
+aiortc
+av
+opencv-python
+openai-whisper
+sentence-transformers
+torchvision
+tf-keras
+mediapipe==0.10.5
+numpy
+deepface
