@@ -1,3 +1,5 @@
+TEAM NAME:VORTEX
+TEAM ID:H26EDU15
 # 🎓 AI Student Understanding Verification System
 
 An AI-powered **Multimodal Student Understanding Verification System** that evaluates a student's conceptual understanding by analyzing speech, text, and video. The system generates an explainable verification report using Speech Recognition, Semantic Analysis, Concept Detection, Knowledge Gap Detection, Misconception Detection, Attention Analysis, Emotion Analysis, and the **Adaptive Understanding Verification Algorithm (AUVA)**.
